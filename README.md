@@ -16,3 +16,6 @@
 2. inside the TestCase folder, there is a 'TestCase1.robot' file
 3. Run the test using the command
           "robot   TestCase1.robot"
+
+   ![image](https://github.com/ronwald/optimy/assets/48977986/43a4b9c1-81d3-4a67-a102-5ea08b81e0fd)
+
